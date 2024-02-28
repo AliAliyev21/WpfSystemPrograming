@@ -1,0 +1,42 @@
+﻿<Window x:Class="WpfSystemPrograming.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfSystemPrograming"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="460" Width="860">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="5*"/>
+        </Grid.ColumnDefinitions>
+        <Grid Grid.Column="0">
+            <Canvas>
+                <Label HorizontalContentAlignment="Center" Content="Txt File A" FontSize="20" FontWeight="Medium" Background="LightGray" Canvas.Top="70" Canvas.Left="15" Height="50" Width="150" Name="txtFileA"></Label>
+                <Label HorizontalContentAlignment="Center" Content="Txt File B" FontSize="20" FontWeight="Medium" Background="LightGray" Canvas.Top="190" Canvas.Left="15" Height="50" Width="150" Name="txtFileB"></Label>
+                <Label HorizontalContentAlignment="Center" Content="Txt File C" FontSize="20" FontWeight="Medium" Background="LightGray" Canvas.Top="310" Canvas.Left="15" Height="50" Width="150" Name="txtFileC"></Label>
+            </Canvas>
+        </Grid>
+        <Grid Grid.Column="1">
+            <Canvas>
+                <Button Click="StartBtn_Click" Name="StartBtn" Canvas.Left="15" Canvas.Top="125" Width="150" Height="60" Content="Start" FontSize="25" FontWeight="Bold" Background="SlateBlue" Foreground="White"></Button>
+                <Button Click="StopBtn_Click" Name="StopBtn" Canvas.Left="15" Canvas.Top="245" Width="150" Height="60" Content="Stop" FontSize="25" FontWeight="Bold" Background="SlateBlue" Foreground="White"></Button>
+            </Canvas>
+        </Grid>
+        <Grid Grid.Column="2">
+            <StackPanel>
+                <ListBox Name="listBox1" FontSize="17" FontWeight="Medium" Height="145" Width="440">
+                    
+                </ListBox>
+                <ListBox Name="listBox2" FontSize="17" FontWeight="Medium" Height="145" Width="440">
+
+                </ListBox>
+                <ListBox Name="listBox3" FontSize="17" FontWeight="Medium" Height="145" Width="440">
+
+                </ListBox>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Window>

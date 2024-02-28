@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\WpfSystemPrograming\WpfSystemPrograming\bin\Debug\WpfSystemPrograming.exe.config
+C:\Users\user\source\repos\WpfSystemPrograming\WpfSystemPrograming\bin\Debug\WpfSystemPrograming.exe
+C:\Users\user\source\repos\WpfSystemPrograming\WpfSystemPrograming\bin\Debug\WpfSystemPrograming.pdb
+C:\Users\user\source\repos\WpfSystemPrograming\WpfSystemPrograming\obj\Debug\WpfSystemPrograming.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\WpfSystemPrograming\WpfSystemPrograming\obj\Debug\MainWindow.g.cs
+C:\Users\user\source\repos\WpfSystemPrograming\WpfSystemPrograming\obj\Debug\App.g.cs
+C:\Users\user\source\repos\WpfSystemPrograming\WpfSystemPrograming\obj\Debug\WpfSystemPrograming_MarkupCompile.cache
+C:\Users\user\source\repos\WpfSystemPrograming\WpfSystemPrograming\obj\Debug\WpfSystemPrograming_MarkupCompile.lref
+C:\Users\user\source\repos\WpfSystemPrograming\WpfSystemPrograming\obj\Debug\MainWindow.baml
+C:\Users\user\source\repos\WpfSystemPrograming\WpfSystemPrograming\obj\Debug\WpfSystemPrograming.g.resources
+C:\Users\user\source\repos\WpfSystemPrograming\WpfSystemPrograming\obj\Debug\WpfSystemPrograming.Properties.Resources.resources
+C:\Users\user\source\repos\WpfSystemPrograming\WpfSystemPrograming\obj\Debug\WpfSystemPrograming.csproj.GenerateResource.cache
+C:\Users\user\source\repos\WpfSystemPrograming\WpfSystemPrograming\obj\Debug\WpfSystemPrograming.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\WpfSystemPrograming\WpfSystemPrograming\obj\Debug\WpfSystemPrograming.exe
+C:\Users\user\source\repos\WpfSystemPrograming\WpfSystemPrograming\obj\Debug\WpfSystemPrograming.pdb
